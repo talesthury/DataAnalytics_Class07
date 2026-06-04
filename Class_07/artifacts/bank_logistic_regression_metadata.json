@@ -1,0 +1,32 @@
+{
+  "model_name": "Bank Marketing Logistic Regression",
+  "target_column": "y",
+  "positive_class_label": "positive response",
+  "negative_class_label": "no response",
+  "features": [
+    "job",
+    "education",
+    "housing",
+    "loan"
+  ],
+  "categorical_features": [
+    "job",
+    "education",
+    "housing",
+    "loan"
+  ],
+  "numeric_features": [],
+  "threshold_default": 0.5,
+  "random_state": 42,
+  "test_size": 0.25,
+  "metrics_at_050": {
+    "accuracy": 0.49014276002719237,
+    "precision": 0.13766832034018428,
+    "recall": 0.6698275862068965,
+    "f1": 0.22839506172839505,
+    "roc_auc": 0.5887269646341325
+  },
+  "training_rows": 30891,
+  "validation_rows": 10297,
+  "source_dataset": "data/bank_marketing_sample.csv"
+}
