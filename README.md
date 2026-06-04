@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # data-mining-course
 
 ## Module Notebooks
@@ -20,3 +21,6 @@ Replace `OWNER/REPO` in links below with your GitHub repository path after publi
 | 12 | More Classifiers: SVM and LDA | |
 | 13 | Cluster Analysis | |
 
+=======
+# DataAnalytics_Class07
+>>>>>>> d31cac753d98d04613617a4325a1273b4bdc3291
